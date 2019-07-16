@@ -41,7 +41,7 @@ public class Produto {
 	
 	public Produto() {
 		codigoProduto = 0;
-		descricao = "descriçao do produto";
+		descricao = "descriÃ§ao do produto";
 		valorVenda = 0;
 		valorCusto = 0;
 		valorCusto = 0;
@@ -50,3 +50,4 @@ public class Produto {
 	
 	
 }
+/*Criado por Jose Lucas CQ*/
